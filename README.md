@@ -7,7 +7,7 @@ Freet allow web developers to make there websites feels like SPA by adding a smo
 
 ## How to use
 - Add <script src="https://freet.icu/cdn/v-1/freet.js"></script> before closing body tag.
-- Add <link rel="stylesheet"  href="https://freet.icu/cdn/v-1/freet.css" /> inside head tag.
+- Add <link rel="stylesheet"  href="https://freet.icu/cdn/v-1/freet.css" > inside head tag.
 - Add <span>main</span> id on the elements where you want the transition apply.
 - Add data attribute <span>data-inanimation</span> and <span>data-outanimation</span> on the #main element to specifiy the type of the transation.
 - Add class <span>internal</span> on the internal links.
